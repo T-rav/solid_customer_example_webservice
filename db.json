@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Customer 01",
+    "Production": "Product 101",
+    "PurchasePrice": 54.23
+  },
+  {
+    "Name": "Customer 02",
+    "Production": "Product 333",
+    "PurchasePrice": 4.23
+  },
+  {
+    "Name": "Customer 03",
+    "Production": "Product 901",
+    "PurchasePrice": 154.23
+  },
+  {
+    "Name": "Customer 04",
+    "Production": "Product 102",
+    "PurchasePrice": 51.90
+  },
+  {
+    "Name": "Customer 05",
+    "Production": "Product 105",
+    "PurchasePrice": 88.99
+  },
+  {
+    "Name": "Customer 06",
+    "Production": "Product 203",
+    "PurchasePrice": 99.01
+  },
+  {
+    "Name": "Customer 07",
+    "Production": "Product 111",
+    "PurchasePrice": 103.45
+  }
+]
